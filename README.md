@@ -1,2 +1,2 @@
 # DURACOIN
-forked from vergecurrency/VERGE 4.0 >
+forked from monero-project/monero
